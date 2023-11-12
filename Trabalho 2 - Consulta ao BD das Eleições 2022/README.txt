@@ -1,0 +1,1 @@
+O trabalho consiste em compreender o banco de dados apresentado no documento "eleicao22_pep" e elaborar dez exercícios de consulta SQL, os quais estão descritos e resolvidos no documento "Exercicios".
